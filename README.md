@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PedroHenriqueFernandes
+- 👀 I’m interested in React, nodeJS, Java, Java Script, MySQL and PHP.
+- 🌱 I’m currently learning React, Java Script, MySQL and PHP;
+- 💞️ I’m looking to collaborate on React, Java Script, MySQL and PHP;
+- 📫 You can reach me in a [Linkedin](www.linkedin.com/in/pedro-h-fernandes752)
