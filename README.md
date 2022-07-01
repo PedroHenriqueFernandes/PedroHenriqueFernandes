@@ -28,7 +28,7 @@
 
 <br>
 
-<h1>Principais trabalhos!</h1>
+<h1>Principais projetos!</h1>
 
 <p align="center">
   <img src="https://github.com/PedroHenriqueFernandes/letmeask/blob/main/src/assets/images/logo.svg" />
