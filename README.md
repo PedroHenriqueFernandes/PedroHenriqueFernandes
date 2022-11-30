@@ -1,6 +1,7 @@
 <h2>𝐇𝐞𝐥𝐥𝐨! 𝐈'𝐦 𝐏𝐞𝐝𝐫𝐨 𝐇𝐞𝐧𝐫𝐢𝐪𝐮𝐞 𝐅𝐞𝐫𝐧𝐚𝐧𝐝𝐞𝐬!</h2>
 
 ## 💻 Projects
+* [Timer](https://timer-pedrohenriquefernandes.vercel.app "site") | [Reporistory!](https://github.com/PedroHenriqueFernandes/timer "see the repository")
 * [NLW LetMeAsk](https://letmeask-pedrofernandes.web.app "site") | [Repository!](https://github.com/PedroHenriqueFernandes/letmeask "see the repository")
 * [NLW Podcastr](https://github.com/PedroHenriqueFernandes/podcastr "see the repository")
 * [Ignite Lab - Design System](https://github.com/PedroHenriqueFernandes/ignite-lab-design-system "see the repository")
