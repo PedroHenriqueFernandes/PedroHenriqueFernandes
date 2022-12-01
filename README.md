@@ -2,13 +2,13 @@
 
 ## 💻 Projects
 * [Timer](https://timer-pedrohenriquefernandes.vercel.app "site") | [Reporistory!](https://github.com/PedroHenriqueFernandes/timer "see the repository")
+* [To Do](https://to-do-pedrohenriquefernandes.vercel.app) | [Repository!](https://github.com/PedroHenriqueFernandes/To-Do "see the repository")
+* [Feed](https://github.com/PedroHenriqueFernandes/Feed "see the repository") | [Repository!](feed-pedrohenriquefernandes.vercel.app)
+* [Game: Dino Mario](dino-mario-pedrohenriquefernandes.vercel.app) | [Repository!](https://github.com/PedroHenriqueFernandes/DinoMario "see the repository")
+* [Design System](https://pedrohenriquefernandes.github.io/ignite-lab-design-system/) | [Repository](https://github.com/PedroHenriqueFernandes/ignite-lab-design-system "see the repository")
+* [Card pay](https://explorer-lab-pedrohenriquefernandes.vercel.app) | [Repository](https://github.com/PedroHenriqueFernandes/explorer-lab "see the repository")
 * [NLW LetMeAsk](https://letmeask-pedrofernandes.web.app "site") | [Repository!](https://github.com/PedroHenriqueFernandes/letmeask "see the repository")
 * [NLW Podcastr](https://github.com/PedroHenriqueFernandes/podcastr "see the repository")
-* [Ignite Lab - Design System](https://github.com/PedroHenriqueFernandes/ignite-lab-design-system "see the repository")
-* [Explorer Lab](https://github.com/PedroHenriqueFernandes/explorer-lab "see the repository")
-* [To Do](https://github.com/PedroHenriqueFernandes/To-Do "see the repository")
-* [Feed](https://github.com/PedroHenriqueFernandes/Feed "see the repository")
-* [Game: DinoMario](https://github.com/PedroHenriqueFernandes/DinoMario "see the repository")
    
 
    
