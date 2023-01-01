@@ -1,7 +1,7 @@
 <h2>𝐇𝐞𝐥𝐥𝐨! 𝐈'𝐦 𝐏𝐞𝐝𝐫𝐨 𝐇𝐞𝐧𝐫𝐢𝐪𝐮𝐞 𝐅𝐞𝐫𝐧𝐚𝐧𝐝𝐞𝐬!</h2>
 
 ## 💻 Projects
-* [Coffee Delivery](https://coffee-delivery-pedrohenriquefernandes.vercel.app "site") | [Reporistory!]("https://github.com/PedroHenriqueFernandes/coffee-delivery")
+* [Coffee Delivery](https://coffee-delivery-pedrohenriquefernandes.vercel.app "site") | [Reporistory!](https://github.com/PedroHenriqueFernandes/coffee-delivery "see the repository")
 * [Timer](https://timer-pedrohenriquefernandes.vercel.app "site") | [Reporistory!](https://github.com/PedroHenriqueFernandes/timer "see the repository")
 * [To Do](https://to-do-pedrohenriquefernandes.vercel.app) | [Repository!](https://github.com/PedroHenriqueFernandes/To-Do "see the repository")
 * [Feed](https://github.com/PedroHenriqueFernandes/Feed "see the repository") | [Repository!](feed-pedrohenriquefernandes.vercel.app)
