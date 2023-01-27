@@ -2,7 +2,7 @@
 
 ## 💻 Projects
 * [Coffee Delivery](https://coffee-delivery-pedrohenriquefernandes.vercel.app "site") | [Reporistory!](https://github.com/PedroHenriqueFernandes/coffee-delivery "see the repository")
-* [blog](https://blog-pedrohenriquefernandes.vercel.app "site") | [Reporistory!](https://github.com/PedroHenriqueFernandes/blog "see the repository")
+* [Blog](https://blog-pedrohenriquefernandes.vercel.app "site") | [Reporistory!](https://github.com/PedroHenriqueFernandes/blog "see the repository")
 * [Timer](https://timer-pedrohenriquefernandes.vercel.app "site") | [Reporistory!](https://github.com/PedroHenriqueFernandes/timer "see the repository")
 * [To Do](https://to-do-pedrohenriquefernandes.vercel.app) | [Repository!](https://github.com/PedroHenriqueFernandes/To-Do "see the repository")
 * [Feed](https://github.com/PedroHenriqueFernandes/Feed "see the repository") | [Repository!](feed-pedrohenriquefernandes.vercel.app)
