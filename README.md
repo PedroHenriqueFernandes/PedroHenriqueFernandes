@@ -1,6 +1,9 @@
 <h2>𝐇𝐞𝐥𝐥𝐨! 𝐈'𝐦 𝐏𝐞𝐝𝐫𝐨 𝐇𝐞𝐧𝐫𝐢𝐪𝐮𝐞 𝐅𝐞𝐫𝐧𝐚𝐧𝐝𝐞𝐬!</h2>
 
 ## 💻 Projects
+* [Calendário](https://call-pedrohenriquefernandes.vercel.app "site") | [Reporistory!](https://github.com/PedroHenriqueFernandes/call "see the repository")
+* [Design System](https://pedrohenriquefernandes.github.io/design-system/ "site") | [Reporistory!](https://github.com/PedroHenriqueFernandes/design-system "see the repository")
+* [Backend Delivery](https://github.com/PedroHenriqueFernandes/Back-delivery "repositório")
 * [Coffee Delivery](https://coffee-delivery-pedrohenriquefernandes.vercel.app "site") | [Reporistory!](https://github.com/PedroHenriqueFernandes/coffee-delivery "see the repository")
 * [Blog](https://blog-pedrohenriquefernandes.vercel.app "site") | [Reporistory!](https://github.com/PedroHenriqueFernandes/blog "see the repository")
 * [Timer](https://timer-pedrohenriquefernandes.vercel.app "site") | [Reporistory!](https://github.com/PedroHenriqueFernandes/timer "see the repository")
@@ -33,8 +36,8 @@
 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+  <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/82915233/224705718-092ddc87-7619-48ea-bcac-5dc4b377b2af.png">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
@@ -44,6 +47,7 @@
 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/82915233/224705354-412c34c4-8d18-46d5-bef5-9035b3f87cac.png">
   <img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/82915233/192396374-12646e5d-ed73-42d4-b6de-39b9be0573c0.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
 </div>
