@@ -28,6 +28,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/82915233/224705718-092ddc87-7619-48ea-bcac-5dc4b377b2af.png">
 </div>
 
 ##
@@ -39,6 +40,8 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/82915233/224705718-092ddc87-7619-48ea-bcac-5dc4b377b2af.png">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" height="30" width="30" src="https://github.com/PedroHenriqueFernandes/PedroHenriqueFernandes/assets/82915233/b6590687-1a6b-401c-9707-1f9a2de338fc">
+  <img align="center" height="30" width="30" src="https://github.com/PedroHenriqueFernandes/PedroHenriqueFernandes/assets/82915233/e31eecd1-a303-4381-b685-d80dd29be0ea">
 </div>
 
 ##
